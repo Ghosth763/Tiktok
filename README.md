@@ -16,7 +16,6 @@
 <a href="https://www.tiktok.com/@andres.polo28">
   <img src="iconos/tiktok.svg" alt="TikTok" width="32" height="32">
 </a>
-html```
 
 ¡Espero que encuentres este repositorio útil y que disfrutes explorando el código de mis videos en TikTok! Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
 
