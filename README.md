@@ -2,14 +2,10 @@
 
 ¡Bienvenido a mi repositorio de videos de TikTok! Aquí encontrarás el código de los videos que he creado en TikTok y otras redes sociales. ¡Sígueme para no perderte mis últimos contenidos!
 
-## Sígueme en TikTok
-[![Sígueme en TikTok](https://www.tiktok.com/@andres.polo28)](https://www.tiktok.com/@andres.polo28)
-
-## Sígueme en Instagram
-[![Sígueme en Instagram](https://www.instagram.com/andrespolo28/)](https://www.instagram.com/andrespolo28/)
-
-## Sígueme en Twitter
-[![Sígueme en Twitter](https://twitter.com/andrespolo28)](https://twitter.com/andrespolo28)
+## Mis redes sociales
+* [ ] TikTok [![Sígueme en TikTok](https://www.tiktok.com/@andres.polo28)](https://www.tiktok.com/@andres.polo28)
+* [ ] Instagram [![Sígueme en Instagram](https://www.instagram.com/andrespolo28/)](https://www.instagram.com/andrespolo28/)
+* [ ]T witter [![Sígueme en Twitter](https://twitter.com/andrespolo28)](https://twitter.com/andrespolo28)
 
 ## Licencia
 Este repositorio se encuentra bajo la Licencia MIT. Puedes obtener más información en el archivo [LICENSE](LICENSE).
