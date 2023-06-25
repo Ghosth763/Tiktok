@@ -8,7 +8,7 @@
 * [ ] [Twitter](https://twitter.com/andrespolo28)
 
 ## Licencia
-Este repositorio se encuentra bajo la Licencia MIT. Puedes obtener más información en el archivo [LICENSE](https://github.com/andrespolo28/Tiktok/blob/master/LINCENSE).
+Este repositorio se encuentra bajo la Licencia MIT. Puedes obtener más información en el archivo [LICENSE](LICENSE).
 
 ---
 
